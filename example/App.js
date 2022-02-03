@@ -111,7 +111,6 @@ const styles = StyleSheet.create({
   buttonTab: {
     paddingVertical: 10,
     paddingHorizontal: 15,
-    bottom: 0
   },
   row: {
     flexDirection: 'row',
