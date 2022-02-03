@@ -114,9 +114,8 @@ const styles = StyleSheet.create({
     bottom: 0
   },
   row: {
-    // flexDirection: 'row',
-    //justifyContent: 'space-between',
-    bottom: 0
+    flexDirection: 'row',
+    justifyContent: 'space-between',
   },
   tabItem: {
     flex: 1,
@@ -124,8 +123,8 @@ const styles = StyleSheet.create({
   },
   activeSwitchContainer: {
     flexDirection: 'row',
-    // justifyContent: 'space-between',
-    // marginBottom: 20,
+    justifyContent: 'space-between',
+    marginBottom: 20,
     alignItems: 'center',
     paddingHorizontal: 40,
   },
